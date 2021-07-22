@@ -18,6 +18,10 @@ function removeQuote(id, auth){
   qm("?fun=remQ&id=" + id+ "&auth=" + auth);
 }
 
+function listQuotes(author){
+  qm("?fun=listQ&a=" + author);
+}
+
 let q = "";
 let a = "";
 let ready = false;

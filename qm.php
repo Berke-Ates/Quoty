@@ -12,6 +12,8 @@ if($fun == "getQ"){
   addQuote();
 } else if($fun == "remQ"){
   removeQuote();
+} else if($fun == "listQ"){
+  listQuotes();
 } else {
   if (mysqli_connect_errno()) {
       echo "Connect failed: " . mysqli_connect_error();
@@ -66,6 +68,20 @@ function removeQuote(){
   mysqli_query($dbConn,$query);
 
   $Amsg = ['msg' => "removed"];
+  echo json_encode($Amsg);
+}
+
+function listQuotes(){
+  $author = $_GET['a'];
+  $query = "SELECT * from quotes WHERE `author` LIKE '%{$author}%'";
+
+  global $dbConn;
+  $result = mysqli_query($dbConn,$query);
+
+  $Amsg = array();
+  while($row = $result->fetch_array(MYSQLI_ASSOC)) {
+    $Amsg[] = $row;
+  }
   echo json_encode($Amsg);
 }
 
