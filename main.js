@@ -59,7 +59,7 @@ function prepQuote(r){
   history.replaceState(null, null, "?"+queryParams.toString());
 }
 
-$("#q").click(() => { if(ready) showQuote(); } );
+$("body").click(() => { if(ready) showQuote(); } );
 let isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
 
 let bubs = [];
