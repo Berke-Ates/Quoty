@@ -11,7 +11,11 @@ function queryQuote(id){
 
 	let r = quotes[intId % quotes.length];
 	q = r["quote"];
-	a = r["author"];
+	if(r["author"] != ""){
+		a = r["author"];
+	} else {
+		a = "unknown";
+	}
 	var queryParams = new URLSearchParams(window.location.search);
 	queryParams.set("id", intId);
 	history.replaceState(null, null, "?"+queryParams.toString());
