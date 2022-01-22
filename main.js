@@ -1,34 +1,25 @@
-function qm(args, cb = (r) => console.log(r)){
-  var xhttp = new XMLHttpRequest();
-  xhttp.onreadystatechange = function(){
-    if (this.readyState == 4 && this.status == 200) {
-      cb(JSON.parse(this.responseText));
-    }
-  };
-  xhttp.open("GET", "qm.php" + args, true);
-  xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-  xhttp.send();
-}
-
-function addQuote(q,a,auth){
-  qm("?fun=addQ&q=" + q + "&a=" + a + "&auth=" + auth);
-}
-
-function removeQuote(id, auth){
-  qm("?fun=remQ&id=" + id+ "&auth=" + auth);
-}
-
-function listQuotes(author){
-  qm("?fun=listQ&a=" + author);
-}
-
 let q = "";
 let a = "";
 let ready = false;
 
+function queryQuote(id){
+	let intId = id;
+
+	if(id == null || id < 0){
+		intId = Math.floor(Math.random() * quotes.length);
+	}
+
+	let r = quotes[intId % quotes.length];
+	q = r["quote"];
+	a = r["author"];
+	var queryParams = new URLSearchParams(window.location.search);
+	queryParams.set("id", intId);
+	history.replaceState(null, null, "?"+queryParams.toString());
+}
+
 function showQuote(){
   ready = false;
-  qm("?fun=getQ&id=" + id,prepQuote);
+  queryQuote(id);
 
   let qIn = "animate__zoomIn";
   let qOut = "animate__zoomOut";
@@ -49,14 +40,6 @@ function showQuote(){
     setTimeout(() => { ready = true; }, 1500);
   });
   id = -1;
-}
-
-function prepQuote(r){
-  q = r["quote"];
-  a = r["author"];
-  var queryParams = new URLSearchParams(window.location.search);
-  queryParams.set("id", r["id"]);
-  history.replaceState(null, null, "?"+queryParams.toString());
 }
 
 $("body").click(() => { if(ready) showQuote(); } );

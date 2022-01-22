@@ -1,4 +1,4 @@
-[
+var quotes = [
     {
         "quote": "Together, we can do anything",
         "author": "James Norbury"
