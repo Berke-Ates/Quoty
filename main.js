@@ -2,7 +2,7 @@ let q = "";
 let a = "";
 let ready = false;
 
-function queryQuote(id){
+function queryQuote(){
 	let intId = id;
 
 	if(id < 0){
@@ -25,7 +25,7 @@ function queryQuote(id){
 
 function showQuote(){
   ready = false;
-  queryQuote(id);
+  queryQuote();
 
   let qIn = "animate__zoomIn";
   let qOut = "animate__zoomOut";
