@@ -9,6 +9,8 @@ function queryQuote(){
 		intId = Math.floor(Math.random() * quotes.length);
 	}
 
+	intId = Math.min(Math.max(intId, 0), quotes.length-1);
+
 	let r = quotes[intId % quotes.length];
 	q = r["quote"];
 	if(r["author"] != ""){
@@ -57,10 +59,10 @@ $("body").click(() => {
 $(document).keydown(function(e){
 		if(ready){
 	    if (e.which == 37) {
-	       id = Math.max(0, --id);
+	       id--;
 				 showQuote();
 	    } else if (e.which == 39) {
-	       id = Math.min(quotes.length, ++id);
+	       id++;
 				 showQuote();
 	    }
 		}
