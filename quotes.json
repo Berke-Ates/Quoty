@@ -83,6 +83,22 @@ var quotes = [
         "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall",
         "author": "Nelson Mandela"
     },
+		{
+				"quote": "It always seems impossible<br>until it's done",
+				"author": "Nelson Mandela"
+		},
+		{
+			"quote": "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered",
+			"author": "Nelson Mandela"
+		},
+		{
+			"quote": "May your choices reflect your hopes, not your fears",
+			"author": "Nelson Mandela"
+		},
+		{
+			"quote": "Where you stand depends on where you sit",
+			"author": "Nelson Mandela"
+		},
     {
         "quote": "The way to get started is to quit talking and begin doing",
         "author": "Walt Disney"
@@ -147,6 +163,22 @@ var quotes = [
         "quote": "Life is a succession of lessons which must be lived to be understood",
         "author": "Ralph Waldo Emerson"
     },
+		{
+				"quote": "I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me",
+				"author": "Ralph Waldo Emerson"
+		},
+		{
+				"quote": "When it is dark enough, you can see the stars",
+				"author": "Ralph Waldo Emerson"
+		},
+		{
+				"quote": "A friend is the hope of the heart",
+				"author": "Ralph Waldo Emerson"
+		},
+		{
+				"quote": "It is not the length of life, but the depth",
+				"author": "Ralph Waldo Emerson"
+		},
     {
         "quote": "The only impossible journey is the one you never begin",
         "author": "Tony Robbins"
@@ -247,6 +279,18 @@ var quotes = [
         "quote": "Whether you think you can or you think you can't, you're right",
         "author": "Henry Ford"
     },
+		{
+				"quote": "You can't build a reputation on what you are going to do",
+				"author": "Henry Ford"
+		},
+		{
+				"quote": "Quality means doing it right when no one is looking",
+				"author": "Henry Ford"
+		},
+		{
+				"quote": "Coming together is the beginning<br>Keeping together is progress<br>Working together is success.",
+				"author": "Henry Ford"
+		},
     {
         "quote": "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe",
         "author": "Albert Einstein"
@@ -1115,6 +1159,14 @@ var quotes = [
         "quote": "Age is an issue of mind over matter.<br>If you don’t mind, it doesn’t matter.",
         "author": "Mark Twain"
     },
+		{
+				"quote": "The man who does not read has no advantage over the man who cannot read",
+				"author": "Mark Twain"
+		},
+		{
+				"quote": "The fear of death follows from the fear of life.<br>A man who lives fully is prepared to die at any time.",
+				"author": "Mark Twain"
+		},
     {
         "quote": "Be who you are and say what you feel<br>because those who mind don’t matter,<br>and those who matter don’t mind.",
         "author": "Dr. Seuss"
@@ -1430,5 +1482,29 @@ var quotes = [
     {
         "quote": "If you always do what you’ve always done<br>you’ll always get what you’ve always got",
         "author": "Henry Ford"
-    }
+    },
+		{
+			"quote": "It is more important to know when to continue,<br>than to know when to stop",
+			"author": ""
+		},
+		{
+			"quote": "A tree's roots give it strength, but don't decide its shape",
+			"author": ""
+		},
+		{
+			"quote": "Love does not consist of gazing at each other, but in looking outward together in the same direction",
+			"author": "Antoine de Saint-Exupéry"
+		},
+		{
+			"quote": "The most beautiful things in the world cannot be seen or touched, they are felt with the heart",
+			"author": "Antoine de Saint-Exupéry"
+		},
+		{
+			"quote": "A goal without a plan is just a wish",
+			"author": "Antoine de Saint-Exupéry"
+		},
+		{
+			"quote": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away",
+			"author": "Antoine de Saint-Exupéry"
+		}
 ]

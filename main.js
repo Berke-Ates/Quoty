@@ -5,7 +5,7 @@ let ready = false;
 function queryQuote(id){
 	let intId = id;
 
-	if(id == null || id < 0){
+	if(id < 0){
 		intId = Math.floor(Math.random() * quotes.length);
 	}
 
@@ -19,6 +19,8 @@ function queryQuote(id){
 	var queryParams = new URLSearchParams(window.location.search);
 	queryParams.set("id", intId);
 	history.replaceState(null, null, "?"+queryParams.toString());
+
+	id = intId;
 }
 
 function showQuote(){
@@ -43,10 +45,27 @@ function showQuote(){
     $("#a").removeClass(aOut).addClass(aIn);
     setTimeout(() => { ready = true; }, 1500);
   });
-  id = -1;
 }
 
-$("body").click(() => { if(ready) showQuote(); } );
+$("body").click(() => {
+	if(ready){
+		id = -1;
+		showQuote();
+	}
+});
+
+$(document).keydown(function(e){
+		if(ready){
+	    if (e.which == 37) {
+	       id = Math.max(0, --id);
+				 showQuote();
+	    } else if (e.which == 39) {
+	       id = Math.min(quotes.length, ++id);
+				 showQuote();
+	    }
+		}
+});
+
 let isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
 
 let bubs = [];
