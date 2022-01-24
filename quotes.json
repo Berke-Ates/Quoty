@@ -24,15 +24,11 @@ var quotes = [
         "author": "James Norbury"
     },
     {
-        "quote": "\"I wish this moment could last forever\" said Tiny Dragon<br>\"This moment is all there is\" smiled Big Panda",
+        "quote": "This moment is all there is",
         "author": "James Norbury"
     },
     {
-        "quote": "\"The most important thing\", said Big Panda, \"is to pay attention\"",
-        "author": "James Norbury"
-    },
-    {
-        "quote": "\"There is beauty everywhere\", said Big Panda, \"but sometimes it is difficult to see\"",
+        "quote": "There is beauty everywhere, but sometimes it is difficult to see",
         "author": "James Norbury"
     },
     {
@@ -44,39 +40,15 @@ var quotes = [
         "author": "James Norbury"
     },
     {
-        "quote": "\"That is a very small candle\" said Tiny Dragon<br>\"However small the light\", smiled Big Panda, \"it is better than darkness\"",
+        "quote": "However small the light, it is better than darkness",
         "author": "James Norbury"
     },
     {
-        "quote": "\"I can not believe how far we've got to go\" sighed Tiny Dragon<br>Big Panda gazed out across the valley<br>\"I can not believe how far we've come\"",
+        "quote": "If you don't try, you'll never know if you can fly",
         "author": "James Norbury"
     },
     {
-        "quote": "\"You're a good listener\" said Tiny Dragon<br>\"Listening has never landed me in trouble\" replied Big Panda",
-        "author": "James Norbury"
-    },
-    {
-        "quote": "\"The best thing to have with tea\", said Big Panda, \"is a good friend\"",
-        "author": "James Norbury"
-    },
-    {
-        "quote": "\"If you don't try\", said Big Panda, \"you'll never know if you can fly\"",
-        "author": "James Norbury"
-    },
-    {
-        "quote": "Sometimes, just getting up is a victory",
-        "author": "James Norbury"
-    },
-    {
-        "quote": "Those who care for others may never get the thanks they deserve<br><br><b>Thank you</b><br>The world is better with you in it",
-        "author": "James Norbury"
-    },
-    {
-        "quote": "Sometimes, you just have to be silly",
-        "author": "James Norbury"
-    },
-    {
-        "quote": "\"How do you keep going?\" asked Tiny Dragon<br>\"Sometimes\", said Big Panda, \"even the smallest step is better than no step\"",
+        "quote": "Even the smallest step is better than no step",
         "author": "James Norbury"
     },
     {
@@ -1506,5 +1478,9 @@ var quotes = [
 		{
 			"quote": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away",
 			"author": "Antoine de Saint-Exupéry"
+		},
+		{
+			"quote": "Every man has two lives; the second begins when we realise we only have one.",
+			"author": "Confucius"
 		}
 ]
