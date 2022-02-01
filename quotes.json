@@ -975,6 +975,10 @@ var quotes = [
         "quote": "Yesterday is history, tomorrow is a mystery, but today is a gift.<br>That is why it is called the present",
         "author": "Oogway"
     },
+		{
+				"quote": "One often meets his destiny on the road he takes to avoid it",
+				"author": "Oogway"
+		},
     {
         "quote": "C'est la vie",
         "author": ""
@@ -1216,7 +1220,7 @@ var quotes = [
         "author": ""
     },
     {
-        "quote": "Life is a connundrum or esoterica",
+        "quote": "Life is a conundrum of esoterica",
         "author": "Lemony Snicket"
     },
     {
@@ -1482,5 +1486,109 @@ var quotes = [
 		{
 			"quote": "Every man has two lives; the second begins when we realise we only have one.",
 			"author": "Confucius"
+		},
+		{
+			"quote": "Everybody is identical in their secret unspoken belief that way deep down they are different from everyone else",
+			"author": "David Foster Wallace"
+		},
+		{
+			"quote": "You will become way less concerned with what other people think of you when you realize how seldom they do",
+			"author": "David Foster Wallace"
+		},
+		{
+			"quote": "Everything I’ve ever let go of has claw marks on it",
+			"author": "David Foster Wallace"
+		},
+		{
+			"quote": "How odd I can have all this inside me and to you it’s just words",
+			"author": "David Foster Wallace"
+		},
+		{
+			"quote": "It's weird to feel like you miss someone you're not even sure you know",
+			"author": "David Foster Wallace"
+		},
+		{
+			"quote": "Try to learn to let what is unfair teach you",
+			"author": "David Foster Wallace"
+		},
+		{
+			"quote": "Whatever you get paid attention for is never what you think is most important about yourself",
+			"author": "David Foster Wallace"
+		},
+		{
+			"quote": "Acceptance is usually more a matter of fatigue than anything else",
+			"author": "David Foster Wallace"
+		},
+		{
+			"quote": "Can’t cut it out, it will grow right back",
+			"author": "Rafiki"
+		},
+		{
+			"quote": "The past can hurt<br>But the way I see it, you can either run from it or learn from it",
+			"author": "Rafiki"
+		},
+		{
+			"quote": "I thought I’d solved a problem when really I was creating new ones by taking the path of least resistance",
+			"author": "David Goggins"
+		},
+		{
+			"quote": "We’re either getting better or we’re getting worse",
+			"author": "David Goggins"
+		},
+		{
+			"quote": "Denial is the ultimate comfort zone",
+			"author": "David Goggins"
+		},
+		{
+			"quote": "The most important conversations you’ll ever have are the ones you’ll have with yourself",
+			"author": "David Goggins"
+		},
+		{
+			"quote": "I don't stop when I'm tired<br>I stop when I'm done",
+			"author": "David Goggins"
+		},
+		{
+			"quote": "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep",
+			"author": "Scott Adams"
+		},
+		{
+			"quote": "You can change only what people know, not what they do",
+			"author": "Scott Adams"
+		},
+		{
+			"quote": "Wealth consists not in having great possessions, but in having few wants",
+			"author": "Epictetus"
+		},
+		{
+			"quote": "Don't explain your philosophy. Embody it.",
+			"author": "Epictetus"
+		},
+		{
+			"quote": "There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will",
+			"author": "Epictetus"
+		},
+		{
+			"quote": "Man is not worried by real problems so much as by his imagined anxieties about real problems",
+			"author": "Epictetus"
+		},
+		{
+			"quote": "It's not what happens to you, but how you react to it that matters",
+			"author": "Epictetus"
+		},
+		{
+			"quote": "If you want to improve, be content to be thought foolish and stupid",
+			"author": "Epictetus"
+		},
+		{
+			"quote": "He who laughs at himself never runs out of things to laugh at",
+			"author": "Epictetus"
+		},
+		{
+			"quote": "Circumstances don't make the man, they only reveal him to himself",
+			"author": "Epictetus"
+		},
+		{
+			"quote": "People are not disturbed by things, but by the views they take of them",
+			"author": "Epictetus"
 		}
 ]
