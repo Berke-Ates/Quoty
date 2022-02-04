@@ -963,6 +963,30 @@ var quotes = [
         "quote": "Be this the whetstone of your sword. Let grief convert to anger; blunt not the heart, enrage it.",
         "author": "William Shakespeare"
     },
+		{
+				"quote": "There is nothing either good or bad, but thinking makes it so",
+				"author": "William Shakespeare"
+		},
+		{
+				"quote": "We know what we are, but not what we may be",
+				"author": "William Shakespeare"
+		},
+		{
+				"quote": "Brevity is the soul of wit",
+				"author": "William Shakespeare"
+		},
+		{
+				"quote": "Listen to many, speak to a few",
+				"author": "William Shakespeare"
+		},
+		{
+				"quote": "God hath given you one face, and you make yourself another",
+				"author": "William Shakespeare"
+		},
+		{
+				"quote": "If we are true to ourselves, we can not be false to anyone",
+				"author": "William Shakespeare"
+		},
     {
         "quote": "Friendship isn't about who you've known the longest, it's about who came and never left your side",
         "author": ""
