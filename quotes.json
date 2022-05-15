@@ -131,6 +131,10 @@ var quotes = [
         "quote": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose",
         "author": "Dr. Seuss"
     },
+		{
+				"quote": "Don't cry because it's over<br>Smile because it happened",
+				"author": "Dr. Seuss"
+		},
     {
         "quote": "Life is a succession of lessons which must be lived to be understood",
         "author": "Ralph Waldo Emerson"
@@ -1614,5 +1618,57 @@ var quotes = [
 		{
 			"quote": "People are not disturbed by things, but by the views they take of them",
 			"author": "Epictetus"
+		},
+		{
+			"quote": "A stitch in time saves nine",
+			"author": "Thomas Fuller"
+		},
+		{
+			"quote": "A stumble may prevent a fall",
+			"author": "Thomas Fuller"
+		},
+		{
+			"quote": "A fool's paradise is a wise man's hell",
+			"author": "Thomas Fuller"
+		},
+		{
+			"quote": "We never know the worth of water till the well is dry",
+			"author": "Thomas Fuller"
+		},
+		{
+			"quote": "All things are difficult before they are easy",
+			"author": "Thomas Fuller"
+		},
+		{
+			"quote": "Be a friend to thyself, and others will be so too",
+			"author": "Thomas Fuller"
+		},
+		{
+			"quote": "Great hopes make great men",
+			"author": "Thomas Fuller"
+		},
+		{
+			"quote": "Compliments cost nothing, yet many pay dear for them",
+			"author": "Thomas Fuller"
+		},
+		{
+			"quote": "A book that is shut is but a block",
+			"author": "Thomas Fuller"
+		},
+		{
+			"quote": "It is said that the darkest hour of the night comes just before the dawn",
+			"author": "Thomas Fuller"
+		},
+		{
+			"quote": "Use it or lose it",
+			"author": ""
+		},
+		{
+			"quote": "I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me",
+			"author": "Ralph Waldo Emerson"
+		},
+		{
+			"quote": "Shoot for the moon. Even if you miss, you'll land among the stars",
+			"author": "Norman Vincent Peale"
 		}
 ]
