@@ -1664,11 +1664,107 @@ var quotes = [
 			"author": ""
 		},
 		{
+			"quote": "Shoot for the moon. Even if you miss, you'll land among the stars",
+			"author": "Norman Vincent Peale"
+		},
+		{
+			"quote": "Change your thoughts and you change your world",
+			"author": "Norman Vincent Peale"
+		},
+		{
+			"quote": "What the mind can conceive and believe, and the heart desire, you can achieve",
+			"author": "Norman Vincent Peale"
+		},
+		{
+			"quote": "It's always to soon to quit!",
+			"author": "Norman Vincent Peale"
+		},
+		{
+			"quote": "If you want things to be different, perhaps the answer is to become different yourself",
+			"author": "Norman Vincent Peale"
+		},
+		{
+			"quote": "Our happiness depends on the habit of mind we cultivate",
+			"author": "Norman Vincent Peale"
+		},
+		{
+			"quote": "Remember that \"Help us grow this grass\" is a far more effective sign than \"Keep off the grass\"",
+			"author": "Norman Vincent Peale"
+		},
+		{
+			"quote": "The world is so much easier in black and white, but so much more beautiful in all the shades of colours",
+			"author": "Critical Role"
+		},
+		{
+			"quote": "Take a chance<br>Roll the dice",
+			"author": "Critical Role"
+		},
+		{
+			"quote": "He that walketh with wise men shall be wise",
+			"author": "Solomon"
+		},
+		{
+			"quote": "The sleep of a laboring man is sweet",
+			"author": "Solomon"
+		},
+		{
+			"quote": "Better the anger of a friend than the kiss of an enemy",
+			"author": "Solomon"
+		},
+		{
+			"quote": "A fool is wise in his eyes",
+			"author": "Solomon"
+		},
+		{
+			"quote": "Above all else, guard your heart, for everything you do flows from it",
+			"author": "Solomon"
+		},
+		{
+			"quote": "Your own soul is nourished when you are kind; it is destroyed when you are cruel",
+			"author": "Solomon"
+		},
+		{
+			"quote": "Give me the gift of a listening heart",
+			"author": "Solomon"
+		},
+		{
+			"quote": "As iron sharpens iron, so a friend sharpens a friend",
+			"author": "Solomon"
+		},
+		{
+			"quote": "All the rivers run into the sea; yet the sea is not full",
+			"author": "Solomon"
+		},
+		{
+			"quote": "For every minute you are angry you lose sixty seconds of happiness",
+			"author": "Ralph Waldo Emerson"
+		},
+		{
+			"quote": "Always do what you are afraid to do",
+			"author": "Ralph Waldo Emerson"
+		},
+		{
+			"quote": "When it is dark enough, you can see the stars",
+			"author": "Ralph Waldo Emerson"
+		},
+		{
+			"quote": "It is not the length of life, but the depth",
+			"author": "Ralph Waldo Emerson"
+		},
+		{
+			"quote": "The only person you are destined to become is the person you decide to be",
+			"author": "Ralph Waldo Emerson"
+		},
+		{
+			"quote": "Life is a journey, not a destination",
+			"author": "Ralph Waldo Emerson"
+		},
+		{
 			"quote": "I cannot remember the books I've read any more than the meals I have eaten; even so, they have made me",
 			"author": "Ralph Waldo Emerson"
 		},
 		{
-			"quote": "Shoot for the moon. Even if you miss, you'll land among the stars",
-			"author": "Norman Vincent Peale"
+			"quote": "Nothing great was ever achieved without enthusiasm",
+			"author": "Ralph Waldo Emerson"
 		}
 ]
