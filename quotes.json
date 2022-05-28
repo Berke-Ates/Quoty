@@ -1766,5 +1766,9 @@ var quotes = [
 		{
 			"quote": "Nothing great was ever achieved without enthusiasm",
 			"author": "Ralph Waldo Emerson"
+		},
+		{
+			"quote": "If you aren't in the moment, you are either looking forward to uncertainty, or back to pain and regret",
+			"author": "Jim Carrey"
 		}
 ]
