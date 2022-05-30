@@ -1770,5 +1770,25 @@ var quotes = [
 		{
 			"quote": "If you aren't in the moment, you are either looking forward to uncertainty, or back to pain and regret",
 			"author": "Jim Carrey"
+		},
+		{
+			"quote": "Our lives are made in these small hours",
+			"author": "Rob Thomas"
+		},
+		{
+			"quote": "No one is born fully-formed: it is through self-experience in the world that we become what we are",
+			"author": "Paulo Freire"
+		},
+		{
+			"quote": "Reading is not walking on the words; it's grasping the soul of them",
+			"author": "Paulo Freire"
+		},
+		{
+			"quote": "Education is freedom",
+			"author": "Paulo Freire"
+		},
+		{
+			"quote": "When education is not liberating, the dream of the oppressed is to become the oppressor",
+			"author": "Paulo Freire"
 		}
 ]
