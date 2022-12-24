@@ -1834,5 +1834,121 @@ var quotes = [
   {
     "quote": "I wish everyone could get rich and famous and have everything they ever dreamed of so they would know that's not the answer",
     "author": "Jim Carrey"
-  }
+  },
+	{
+		"quote": "Sometimes you climb out of bed in the morning and you think, I'm not going to make it, but you laugh inside — remembering all the times you've felt that way"
+		"author": "Charles Bukowski"
+	},
+	{
+		"quote": "You have to die a few times before you can really live"
+		"author": "Charles Bukowski"
+	},
+	{
+		"quote": "The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence"
+		"author": "Charles Bukowski"
+	},
+	{
+		"quote": "I wanted the whole world or nothing"
+		"author": "Charles Bukowski"
+	},
+	{
+		"quote": "Find what you love and let it kill you"
+		"author": "Charles Bukowski"
+	},
+	{
+		"quote": "An intellectual says a simple thing in a hard way<br>An artist says a hard thing in a simple way"
+		"author": "Charles Bukowski"
+	},
+	{
+		"quote": "Some lose all mind and become soul, insane<br>some lose all soul and become mind, intellectual<br>some lose both and become accepted"
+		"author": "Charles Bukowski"
+	},
+	{
+		"quote": "Real loneliness is not necessarily limited to when you are alone"
+		"author": "Charles Bukowski"
+	},
+	{
+		"quote": "Wealth consists not in having great possessions, but in having few wants"
+		"author": "Epictetus"
+	},
+	{
+		"quote": "Don't explain your philosophy<br>Embody it"
+		"author": "Epictetus"
+	},
+	{
+		"quote": "There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will"
+		"author": "Epictetus"
+	},
+	{
+		"quote": "Man is not worried by real problems so much as by his imagined anxieties about real problems"
+		"author": "Epictetus"
+	},
+	{
+		"quote": "It's not what happens to you, but how you react to it that matters"
+		"author": "Epictetus"
+	},
+	{
+		"quote": "If you want to improve, be content to be thought foolish and stupid"
+		"author": "Epictetus"
+	},
+	{
+		"quote": "Any person capable of angering you becomes your master"
+		"author": "Epictetus"
+	},
+	{
+		"quote": "The key is to keep company only with people who uplift you, whose presence calls forth your best"
+		"author": "Epictetus"
+	},
+	{
+		"quote": "He who laughs at himself never runs out of things to laugh at"
+		"author": "Epictetus"
+	},
+	{
+		"quote": "It is impossible for a man to learn what he thinks he already knows"
+		"author": "Epictetus"
+	},
+	{
+		"quote": "Circumstances don't make the man, they only reveal him to himself"
+		"author": "Epictetus"
+	},
+	{
+		"quote": "No man is free who is not master of himself"
+		"author": "Epictetus"
+	},
+	{
+		"quote": "Seek not the good in external things;seek it in yourselves"
+		"author": "Epictetus"
+	},
+	{
+		"quote": "Real courage is being afraid but doing it anyway"
+		"author": "Oprah Winfrey"
+	},
+	{
+		"quote": "Yesterday is gone and forgotten, tomorrow today will be too"
+		"author": ""
+	},
+	{
+		"quote": "What would you attempt to do if you knew you could not fail?"
+		"author": "Robert H. Schuller"
+	},
+	{
+		"quote": "Tough times never last<br>Tough people do"
+		"author": "Robert H. Schuller"
+	},
+	{
+		"quote": "Better to do something imperfectly than to do nothing flawlessly"
+		"author": "Robert H. Schuller"
+	},
+	{
+		"quote": "Build a dream and the dream will build you"
+		"author": "Robert H. Schuller"
+	},
+	{
+		"quote": "Let your hopes, not your hurts, shape your future"
+		"author": "Robert H. Schuller"
+	},
+	{
+		"quote": "Death is not a punchline, but it is the perfect setup<br>Death renders everything around it absurd"
+		"author": "Brennan Lee Mulligan"
+	}
 ]
