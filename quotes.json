@@ -1954,5 +1954,9 @@ var quotes = [
 	{
 		"quote": "The greatest victories are always behind the desire to quit<br>So don't quit",
 		"author": ""
+	},
+	{
+		"quote": "No gods or kings<br>Only man",
+		"author": "BioShock"
 	}
 ]
