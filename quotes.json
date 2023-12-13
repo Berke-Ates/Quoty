@@ -1958,5 +1958,9 @@ var quotes = [
 	{
 		"quote": "No gods or kings<br>Only man",
 		"author": "BioShock"
+	},
+	{
+		"quote": "A bad plan that is well executed will yield much better results than a good plan that is poorly executed",
+		"author": "Otto von Bismarck"
 	}
 ]

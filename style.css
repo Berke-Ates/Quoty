@@ -1,5 +1,4 @@
-html,
-body {
+html, body {
   margin: 0;
   padding: 0;
 }
@@ -8,41 +7,45 @@ canvas {
   display: block;
 }
 
-#qDiv {
+#qDiv{
   position: fixed;
   width: 100vw;
   height: 60vh;
   top: 40vh;
 }
 
-#q {
+#q{
   margin: auto;
   width: 75%;
   text-align: center;
   color: #fff;
   font-size: 2.2em;
-  -webkit-user-select: none;
-  /* Safari */
-  -moz-user-select: none;
-  /* Firefox */
-  -ms-user-select: none;
-  /* IE10+/Edge */
-  user-select: none;
-  /* Standard */
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  user-select: none; /* Standard */
 }
 
-#a {
+#a{
   margin: auto;
   width: 75%;
   text-align: center;
   color: #fff;
   margin-top: 15px;
-  -webkit-user-select: none;
-  /* Safari */
-  -moz-user-select: none;
-  /* Firefox */
-  -ms-user-select: none;
-  /* IE10+/Edge */
-  user-select: none;
-  /* Standard */
+  -webkit-user-select: none; /* Safari */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* IE10+/Edge */
+  user-select: none; /* Standard */
+}
+
+.overlay {
+		position: fixed;
+		top: 10px;
+		left: 10px;
+		z-index: 9999;
+		color: rgba(255,255,255,0.4);
+		-webkit-user-select: none; /* Safari */
+		-moz-user-select: none; /* Firefox */
+		-ms-user-select: none; /* IE10+/Edge */
+		user-select: none; /* Standard */
 }
