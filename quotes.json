@@ -1962,5 +1962,29 @@ var quotes = [
 	{
 		"quote": "A bad plan that is well executed will yield much better results than a good plan that is poorly executed",
 		"author": "Otto von Bismarck"
+	},
+	{
+		"quote": "No man ever steps in the same river twice, for it's not the same river and he's not the same man",
+		"author": "Heraclitus"
+	},
+	{
+		"quote": "The Only Thing That Is Constant Is Change",
+		"author": "Heraclitus"
+	},
+	{
+		"quote": "Character is destiny",
+		"author": "Heraclitus"
+	},
+	{
+		"quote": "How can you hide from what never goes away?",
+		"author": "Heraclitus"
+	},
+	{
+		"quote": "The sun is new each day",
+		"author": "Heraclitus"
+	},
+	{
+		"quote": "The sun is new each day",
+		"author": "Heraclitus"
 	}
 ]
